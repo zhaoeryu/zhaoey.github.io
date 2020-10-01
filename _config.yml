@@ -2,7 +2,7 @@
 title: pRoJEct-NeGYa
 owner: "zhaoeryu"
 url: "https://zhaoeryu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
