@@ -1,7 +1,7 @@
 ## Settings
 title: pRoJEct-NeGYa
-owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
+owner: "zhaoey"
+url: "https://zhaoey.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
 description: ""
@@ -10,8 +10,8 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "akiritsu@outlook.com"
-github: "akiritsu/pRoJEct-NeGYa"
+email: "cn.zhaoey@gmail.com"
+github: "zhaoeryu/pRoJEct-NeGYa"
 
 statement: "Designed by DeerRIDER, All Rights Reserved"
 # default max toc levels: 1 - 6 (h1 - h6)
